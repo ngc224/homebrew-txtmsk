@@ -11,6 +11,6 @@ class Txtmsk < Formula
   end
 
   def install
-    bin.install Dir['bin/*']
+    bin.install 'txtmsk'
   end
 end
