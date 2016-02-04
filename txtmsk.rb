@@ -7,7 +7,7 @@ class Txtmsk < Formula
 
   if OS.mac?
     url "https://github.com/ngc224/txtmsk/releases/download/v#{VERSION}/txtmsk_darwin_amd64.zip"
-    sha1 '203853d469537d925d90a25bdb9112e7e395b0ec'
+    sha1 '9ba4f1cea84ac71a500689ae22ba0aac67b5c47a'
   end
 
   def install
